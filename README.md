@@ -1,0 +1,1 @@
+# AWS-Kafka-StockMarket-DE-Project
